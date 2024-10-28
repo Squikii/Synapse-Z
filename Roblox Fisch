@@ -1,0 +1,17 @@
+--[[
+
+
+        ▄████▄  ▓█████  ██▀███  
+       ▒██▀ ▀█  ▓█   ▀ ▓██ ▒ ██▒        CER3 - Roblox Fisch Script
+       ▒▓█    ▄ ▒███   ▓██ ░▄█ ▒        Version: 1.0 Beta
+       ▒▓▓▄ ▄██▒▒▓█  ▄ ▒██▀▀█▄          Status: Updated
+       ▒ ▓███▀ ░░▒████▒░██▓ ▒██▒
+       ░ ░▒ ▒  ░░░ ▒░ ░░ ▒▓ ░▒▓░        developed by:
+         ░  ▒    ░ ░  ░  ░▒ ░ ▒░        tul.hi , pq3e
+       ░           ░     ░░   ░ 
+       ░ ░         ░  ░   ░     
+       ░                        
+
+--]]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tulontop/CER3/refs/heads/main/Obfuscated.luau"))()
